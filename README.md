@@ -25,7 +25,7 @@ additional cost and therefore there may be only a few reviews that provide a rat
 
 The completion of this project aims to demonstrate my proficiency in data scraping, data transformation, exploratory data analysis, machine learning modeling, and data visualization techniques, showcasing strong analytical and problem-solving skills.
 
-## Data Scraping
+## (How-to) Data Scraping
 Although the code may look a little daunting for the average non-coding user, you can use the code to create a dataset in .csv form for any airline listed on the website.
 In the Data Scraping notebook, simply change the link within the variable, `base_url`, highlighted in the parentheses shown below: 
 ```python 
