@@ -1,4 +1,5 @@
-![Code snippet used from https://carbon.now.sh/](https://github.com/pan-yutong/Airline-Reviews-Data-Analysis/assets/77422568/1005d7c5-d1c8-46fc-b542-2d961747a428)
+![Code snippet used from https://carbon.now.sh/](https://github.com/pan-yutong/Airline-Reviews-Data-Analysis/assets/77422568/9cb46453-5a4d-400e-9364-69db43935a5b)
+
 
 As someone who flies atleast twice a year, I never really put much thought into which airline to pick. I was more concerned with finding the most cost-effective airplane tickets and only saw flights as a means of travel to get to where I was staying. 
 As such, I am unaware of the opinions that people had about the various airline companies. This project aims to develop my data scraping and analysis skills while also keeping me up to date about the services that people consider when choosing an airline company 
