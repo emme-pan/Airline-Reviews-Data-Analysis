@@ -24,3 +24,10 @@ An example question that may be clear only after analysis could be which service
 additional cost and therefore there may be only a few reviews that provide a rating for that compared to Seat Comfort, which is more likely to be experienced, and thus, more likely to be included in the reviews.
 
 The completion of this project aims to demonstrate my proficiency in data scraping, data transformation, exploratory data analysis, machine learning modeling, and data visualization techniques, showcasing strong analytical and problem-solving skills.
+
+## Data Scraping
+Although the code may look a little daunting for the average non-coding user, you can use the code to create a dataset in .csv form for any airline listed on the website.
+In the Data Scraping notebook, simply change the link within the variable, `base_url`, highlighted in the parentheses shown below: 
+```python 
+base_url = "https://www.airlinequality.com/airline-reviews/air-canada"
+```
