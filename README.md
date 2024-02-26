@@ -1,4 +1,4 @@
-![Code snippet used from https://carbon.now.sh/](https://github.com/pan-yutong/Airline-Reviews-Data-Analysis/assets/77422568/9cb46453-5a4d-400e-9364-69db43935a5b)
+![Code snippet used from https://carbon.now.sh/](https://github.com/pan-yutong/Airline-Reviews-Data-Analysis/assets/77422568/03548513-57d2-46ff-9781-c83b805478f2)
 
 
 As someone who flies atleast twice a year, I never really put much thought into which airline to pick. I was more concerned with finding the most cost-effective airplane tickets and only saw flights as a means of travel to get to where I was staying. 
